@@ -2,7 +2,7 @@
 import { ref } from 'vue';
 import EssentialLink, {
   EssentialLinkProps,
-} from 'components/EssentialLink.vue';
+} from 'src/shared/components/EseentialsLinks.vue';
 
 const essentialLinks: EssentialLinkProps[] = [
   {

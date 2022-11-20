@@ -12,7 +12,7 @@ const store = useIssuesStore();
     push
     spread
     :options="[
-      { label: 'All', value: 'all' },
+      { label: 'All', value: '' },
       { label: 'Open', value: 'open' },
       { label: 'Closed', value: 'closed' },
     ]"
